@@ -1,0 +1,6 @@
+Install React module, create new project and run the new project
+----------------------------------------------------------------
+npm i create-react-app -g
+create-react-app projname
+cd projname
+npm start
