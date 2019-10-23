@@ -1,0 +1,232 @@
+react official site
+sesh link in whatsapp
+open visual studio code (first install by windows properties config)
+react- is virtual dom(VDOM)
+1.mvc - mode view controller
+2.npm i create-react-app -g
+3.create -react-app %newfolder%
+4.c:cd %newfolder%
+3.npm
+.. start
+4.open terminal
+5, run it on terminal  on localhost chrome
+6.download and install gitbash (https://git-scm.com/download/win)
+
+sep 24
+react have <tag/> and end by </>  *imp
+components
+1.properties-props in function component  
+2.state -class component
+3.lifecycle methods
+*mount - constructor -render(if changes it will create vdom 1 vdom2)- -component didmount
+*update-shouldcomponentupdate
+*unmount-copmponent willmount ex.online test
+password(Ganapathy@1234)
+
+sep25
+map filter
+add bootstarp
+onchange funtion
+sesh mail
+curly brace{}
+
+sep26
+react has no dom because it has vdom
+build the timer 
+bounds in react
+port //set prot number
+alt+tab
+	
+
+whenever the changes in state and props it will react in components caled reactjs
+ sep27
+npm i react-route-dom  //create in a folder sry install
+ps c:\users\sivaranjini\desktop\demo2\NEwDemo\client>
+
+
+route  //<BrowserRouter>
+navbar
+home,demo,timer,stopwatch
+if there is anychange is vdom1 it will create the newvdom
+go to the browser and search git clone https://github.com/sesh86/Demo  // to clone react projects
+go to day and click on it 
+get the commit code just copy
+open vsc open ternminal
+git reset --hard commit code    //commit to access files
+  link vs path vs exact path
+assingment
+<Route Rendr 
+<BR> browser
+<router path='/'
+demo=""
+timer""
+stopwatch
+
+go and check"developer tools"
+
+sept 30
+import App/Demo/Timer/NavBar/Users/Posts
+npm i axios  //installl in client //npm start// declaration axios('url').then(res=>{console.log(res))
+official site(axios api etc get// npmjs.com/packages/axios =>url)
+promise -- sql like (egmascript -it is the standerd script like sql current version es6)
+stack last in first out eg bangle for memory consumption we use promise)
+quest:call back and promise ex stack and promise -queue)
+
+oct 3
+google grammerly
+certificate print
+hacking - EVERYONE KNOW THE DOMAINAME USING DN WE HACK AN IP IN CLOUD
+password is USER and ADMIN default pwd
+mongidb server                                                            % ASSIGNMENT ->ALBUM AND REDUX 
+redux
+excel maintainace
+reducer create ,next indoc js,components in github sesh redux
+
+oct 4
+get into pc -all application will be download and update
+redux GITHUB PATH FOR REDUX
+dispatcher is the collection of functions
+fn1->fnredux(action->rreducer)
+create a dispatcher
+added into the component props
+componrnt have central store and dispatcher(getuser)->action(getuser)->reducer-->
+dispatcher action->action->reducer ..state,name='upadated user'
+dispatcher->apirequest->action->reducer->user-central store
+
+oct 7
+second class
+react exetension will be  dowloaded %%
+and installation process for every project must be importatnt
+reducer
+central store is used to share the data to the components which we will select
+props and state 
+state->view   make changes in index and import the state and store in index and add connection in props and component
+each and every project create the installation is important
+
+0ct 8
+props= it is function ex <input> attributes='attr.value' it is html in react props=props value 
+props and state in components
+state= it is a variable but the name cannot be change in program
+json -it is the what are the value in state it is called json ex name age id inside the id name it is called nested json
+how to create a function component one is create usinf funtion name and arrow function(es6)% browser arrow funtion ecma script
+
+if else in react {props.name=='siva' ? st1: st2} %
+ECMA SCRIPT is simply known as sql 
+------------------------------------------------------------------
+----------------------------------------------------------------------
+json
+arrow fn
+ternary op
+state
+props
+-----------------------------------------------------------------------
+-------------------------------------------------------------------------
+react is fully javascript oriented so we are using ECMA script it is like sql  there is nosql and postsql now a days they using
+git reset --hard commit code
+how to add bootstarp add in index normally we can add %%%%%%%
+brows %js formatervalidator%
+----------------------------------------------------------------
+-----------------------------------------------------------------
+RENDER REDUX STATE AND PROPS COMPONENTS GITHUB REPOSITORY MAPFN
+WHWENER THE CHANGES IN STATE AND PROPS THE COMPONENT WILL REACT it is a beauty of react%%
+SEARCH=filter,map,if else,onchane event,handlechange,upadte in ste ,the compont reacts
+render is inside the component
+onchange->handlechange->state->component %vdom-vdom% any change in dom it will create VDOM and update
+%%github sesh day 3 demo render
+%assignment make a search for case sensitive ex j r J 
+
+inthis calss how do we use the map,filter,event,callbackfuntion event
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+hackr.io 
+
+state def:
+component consistes of html and css the component need to sto store the data somehwere it store their data in state which is an object 
+defined as setState() and this,state()
+prop-passing the value in the component
+
+PROPERTIES MeaNS ATTRIBUTE IT IS DEFINED IN THE HTML TAG LIKE  ex:<div name="attributes" /div>
+INDEX.HTML USING CSS AND BOOTSTRAP where it is located it is in public folder
+INDEX.JS  it is located in src folder
+APP.JS //import the project file //import './Siva.js' asl kaveri
+COMPONENTS MEANS EACH AND EVERY THING IN FORM IS CALLED COMPONENTS ex facebook mailid password
+
+
+oct 14
+json =its is always start with {}flower bracket and colen  ex{siva:address.etc}
+name:"siva"  adress:{dno..streetname} ==nested json
+sesh mail
+commit code
+demo.js
+render= is to display
+ternary operator interpolation EMPTb1%%%  like if else  
+
+github repository props and state 
+ex:gender name age
+git reset --hard //commitcode
+
+oct 15
+day3
+f12 for developer tool
+onchange event
+filter//apply condition is indexof -1
+map only used in array
+html
+table table row tr table data td
+css = bootstrap
+css= it is usedin index.html
+className ="css or bootstrap cde"  inside the rtender
+ table for gap className ='table'
+
+oct 17
+lifecycle methods
+mount /update/unmount
+mount -( class inside is called method or function)/ constructor/super/component will mount/ render/component didmount
+update-should component update/true or false /true component will update/render/component did update/ false -nothing
+unmount-component will unmount
+ ex:sesh github day4 timer 
+fix the timer syntax 1000 it is in milliseconds
+
+port number package.json change the + cahnge favour icon bootstarp
+
+oct 21
+router it is link for the one or two component
+day 5.1
+ path and exactpath
+link and nav link
+navbar
+navbar.js
+index.js import browser router
+installation op router npm i react-router-dom
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+oct22
+axios
+the changes in states and props the component will react
+callback ex stack  disadvantage is waiting in browser and datasbase  lifo
+promises ex queue    it cannot wait it will react fifo
+
+axios using map and calling an api
+refernet jsonplaceholder
+day 5.2
+clone important  code
+sesh project 
+
+git reset commit code
+
+module not found install ex react dom axios router
+open terminal  
+d: git clone git reset
+-------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+oct 23
+ route and dynamic route
+nav link
+post.js
+user.js
+index.js
+(route path post)
+
+
+
