@@ -1,0 +1,76 @@
+.lcon{
+    margin-top: 15%;
+}
+
+.btn-success{
+    padding: 5px 15px;
+    border: none;
+    margin-top: 7%;
+}
+
+.ljum{
+    border: 3px solid blue;
+}
+.lp1{
+    color: green;
+}
+
+.fc{
+    margin-top: 10%;
+}
+
+.inj{
+    background-color: white;
+}
+
+.pcl1{
+    color: deepskyblue;
+}
+.pcl2{
+    color: red;
+}
+
+.fd1{
+    margin-top: 10%;
+}
+.fd2{
+    margin-top: 10%;
+}
+
+.btn-success{
+    padding: 5px 15px;
+    border: none;
+    margin-top: 2%;
+}
+
+.btn2{
+    padding: 5px 15px;
+    border: none;
+    margin-top: 0.1%;
+}
+
+
+.scon{
+    margin-top: 5%;
+}
+
+.sp1{
+    color: red;
+}
+/*..............responsive...............*/
+@media only screen and (min-width:768px) and (max-width: 1920px){
+    .ljum{
+        margin: 0px 30%;
+    }
+    .sjum{
+    width: 600px;
+    margin: 0 auto;
+}
+    
+}
+@media only screen and (min-width:320px) and (max-width: 434px){
+    .sp1{
+        font-size: 16px !important;
+    }
+    
+}

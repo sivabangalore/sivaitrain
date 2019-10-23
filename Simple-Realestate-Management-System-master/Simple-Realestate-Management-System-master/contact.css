@@ -1,0 +1,46 @@
+.jumbotron{
+  background-color: white;
+    margin: 10% 30%;
+}
+.cp1{
+    text-align: center;
+    font-size: 30px !important;
+    color: green;
+}
+.btn-success{
+    margin-left: 40%;
+    border: none;
+    padding: 5px 10px;
+}
+
+.cl1{
+    font-size: 16px;
+    color: #1ac6ff;
+}
+
+.cp2{
+    text-align: left;
+    color: #ff8c1a;
+}
+
+
+/*..............responsive...............*/
+@media only screen and (min-width:768px) and (max-width: 991px) {
+    .jumbotron{
+  background-color: white;
+    margin: 10% 10%;
+}
+
+    
+}
+@media only screen and (min-width:320px) and (max-width: 616px){
+        .jumbotron{
+  background-color: white;
+    margin: 10% 15%;
+}
+    .cp1{
+    text-align: center;
+    font-size: 22px !important;
+    color: green;
+}
+}
